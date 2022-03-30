@@ -30,7 +30,7 @@ body { background: #0f0f0f; }
    padding-bottom: 102px;   
    min-height: 900px;
    width: 100%;
-   background: no-repeat center/60% #161415 url(../images/header-background.jpg);
+   background: no-repeat center #161415 url(../images/header-background.jpg);
    background-size: cover !important;
 	-webkit-background-size: cover !important;   
 }
@@ -48,7 +48,7 @@ header #logo {
 	text-align: center;
 	
 	position: absolute;
-	top: 72px;
+	top: 50px;
 	left: 50%;
 }
 
@@ -173,7 +173,7 @@ ul#nav li.current a { color: #1E732D; }
    
 }
 #main h1 {
-	font: 4em 'windsong', cursive;	
+	font: 3em 'windsong', cursive;	
 	color: #eec51d;
 	margin-bottom: 18px;	
 	padding: 0 10%;

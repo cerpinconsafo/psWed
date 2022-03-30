@@ -31,7 +31,7 @@ e. Others
 @import url("fonts.css");
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
-@import url('https://fonts.googleapis.com/css2?family=WindSong:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=WindSong:wght@400;500&display=swap');
 
 /* ------------------------------------------------------------------ */
 /* b. Preloader
@@ -167,10 +167,10 @@ html { font-size: 62.5%; }
 
 body {
    background: #fff;
-   font-family: 'merriweather-regular', sans-serif;
+   font-family: 'Reenie Beanie', cursive;
    font-weight: normal;
-   font-size: 15px;
-   line-height: 30px;
+   font-size: 20px;
+   line-height: 10px;
 	color: #1d7942;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -186,16 +186,16 @@ body {
 /* h1,*/ 
 h2, h3, h4, h5, h6 { 
    color: #fff;
-	font-family: 'montserrat-bold', sans-serif;
+	font-family: 'Reenie Beanie', cursive;
    font-weight: normal;
 }
  a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
-h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; }
-h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
-h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
-h5 { font-size: 18px; line-height: 30px; }
-h6 { font-size: 14px; line-height: 30px; }
+h1 { font-size: 30px; line-height: 36px; margin-bottom: 12px; letter-spacing: 0px; }
+h2 { font-size: 28px; line-height: 24px; margin-bottom: 6px; }
+h3 { font-size: 24px; line-height: 18px; margin-bottom: 6px; }
+h4 { font-size: 24px; line-height: 18px; margin-bottom: 6px; }
+h5 { font-size: 20px; line-height: 16px; }
+h6 { font-size: 20px; line-height: 16px; }
 .subheader { }
 
 p { margin: 0 0 30px 0; }
