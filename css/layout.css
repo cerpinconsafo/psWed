@@ -166,7 +166,9 @@ ul#nav li.current a { color: #1E732D; }
 #main {
 	margin: 95px auto 0;
 	text-align: center;	
-   background-color: #563a5cf5;
+   background-color: #7f64a6dc;
+   border: solid 2px #443a5c;
+   border-bottom: solid 4px #eed451;
    padding: 3rem;
    
 }
