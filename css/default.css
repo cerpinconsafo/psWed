@@ -191,11 +191,11 @@ h2, h3, h4, h5, h6 {
 }
  a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 h1 { font-size: 30px; line-height: 36px; margin-bottom: 12px; letter-spacing: 0px; }
-h2 { font-size: 28px; line-height: 24px; margin-bottom: 6px; }
-h3 { font-size: 24px; line-height: 18px; margin-bottom: 6px; }
-h4 { font-size: 24px; line-height: 18px; margin-bottom: 6px; }
-h5 { font-size: 20px; line-height: 16px; }
-h6 { font-size: 20px; line-height: 16px; }
+h2 { font-size: 36px; line-height: 24px; margin-bottom: 6px; }
+h3 { font-size: 32px; line-height: 18px; margin-bottom: 6px; }
+h4 { font-size: 32px; line-height: 18px; margin-bottom: 6px; }
+h5 { font-size: 28px; line-height: 16px; }
+h6 { font-size: 28px; line-height: 16px; }
 .subheader { }
 
 p { margin: 0 0 30px 0; }
