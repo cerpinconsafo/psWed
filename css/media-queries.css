@@ -30,7 +30,7 @@
 		font: 3em 'windsong', cursive;
   		padding: 0 15%;
   	}
-	#main p { font: 16px/30px 'montserrat-regular', sans-serif; }
+	#main p { font: 24px/34px 'montserrat-regular', sans-serif; }
 
 	/* counter */
 	#main #counter { 
@@ -228,7 +228,7 @@
    /* main
    ------------------------------------------------------------------ */
    #main h1 { 
-	font: 2em 'windsong', cursive; 
+	font: 1em 'windsong', cursive; 
 		padding: 0 5px;
   	}
     
@@ -238,7 +238,7 @@
 		margin: 0 0 24px;
 	}
 	#main #counter span { 
-		font: 40px/1em 'merriweather-bold', serif;	
+		font: 26px/1em 'merriweather-bold', serif;	
 		padding: 9px 0 15px;
 		border: none;
 	}
