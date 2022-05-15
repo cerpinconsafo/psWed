@@ -75,7 +75,7 @@
 
 	/* about section
    ------------------------------------------------------------------ */
-   #about { padding-top: 84px}
+   #about { padding-top: 70px}
    #about .section-header .icon-wrap { font-size: 55px; }
 	#about .section-header h1,
 	#call-to-action h2 {	font: 28px/36px 'montserrat-bold', sans-serif; }
@@ -114,7 +114,7 @@
    ------------------------------------------------------------------ */
    #main { margin-top: 48px; }
   	#main h1 { 
-		font: 2em 'windsong', cursive;
+		font: 3em 'windsong', cursive;
   		text-align: center;  		
   	}
   	#main p {	
@@ -228,7 +228,7 @@
    /* main
    ------------------------------------------------------------------ */
    #main h1 { 
-	font: 1em 'windsong', cursive; 
+	font: 2em 'windsong', cursive; 
 		padding: 0 5px;
   	}
     

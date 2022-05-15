@@ -292,12 +292,12 @@ ul#nav li.current a { color: #1E732D; }
 #about {
 	background: #eed451;
 	color: #443a5c; 
-   padding-top: 96px;
-   padding-bottom: 72px;     
+   padding-top: 90px;
+   padding-bottom: 65px;     
    overflow: hidden; 
 }
 #about a, #about a:visited  { color: #0C3012; }
-#about a:hover, #about a:focus { color: #C; }
+#about a:hover, #about a:focus { color: green; }
 
 .section-header,
 .section-content {
