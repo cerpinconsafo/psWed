@@ -4,6 +4,10 @@
 /*
  * Merriweather
 ================================================================================ */
+ 
+
+
+   
 
 @font-face {
     font-family: 'merriweather-heavy';
@@ -127,3 +131,8 @@
    }   
 
 }
+
+@font-face {
+     font-family: 'honey-florist';
+     src: ('psWed/Honey Florist - Personal Use.otf')
+ }
