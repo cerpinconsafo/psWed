@@ -186,7 +186,7 @@ body {
 /* h1,*/ 
 h2, h3, h4, h5, h6 { 
    color: #fff;
-	font-family: 'Reenie Beanie', cursive;
+	font-family: 'Roboto';
    font-weight: normal;
 }
  a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
@@ -317,7 +317,7 @@ hr { border: solid #E8E8E8; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #c4c38f;
+   color: #c2aa24;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
