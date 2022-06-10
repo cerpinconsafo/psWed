@@ -384,10 +384,9 @@ ul#nav li.current a { color: #1E732D; }
    color: #eed451; 
 }
 #location .contact-details {
-	max-width: 900px;	
+	max-width: 950px;	
 	text-align: center;
-}
-#location .contacts .row .columns {	width: 33.33333%; }
+}s
 #location .contacts .row .end { float: left; }
 #location .contacts h3 {
    font: 14px/24px 'montserrat-bold', sans-serif;
@@ -400,7 +399,7 @@ ul#nav li.current a { color: #1E732D; }
    line-height: 30px;
    font-family: 'montserrat-regular', sans-serif;
    font-size: 14px;
-   color: #eed451; 
+   color: #ffffff; 
 }
 #location .contacts h3 i {	margin-right: 8px; }
 
@@ -490,5 +489,5 @@ footer .copyright  li:first-child:before {
    line-height: 48px;
  	border-radius: 3px;
 }
-#go-top a:hover { background: #eec51d; }
+#go-top a:hover { background: #86d48a; }
 
