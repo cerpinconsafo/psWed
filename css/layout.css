@@ -406,11 +406,16 @@ ul#nav li.current a { color: #1E732D; }
 /* map */
 #map {
    display: flex;
+   flex-wrap: wrap;
    justify-content: space-evenly;
-   padding: 5px;
+   padding: 15px;
 	height: 100%; 
    width: 100%;
    background-color: #eed451;
+}
+
+#map .small-maps {
+   padding: 10px 5px;
 }
 
 
