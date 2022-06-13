@@ -31,7 +31,7 @@ e. Others
 @import url("fonts.css");
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
-@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=WindSong:wght@400;500&display=swap');
+
 
 /* ------------------------------------------------------------------ */
 /* b. Preloader
@@ -167,10 +167,10 @@ html { font-size: 62.5%; }
 
 body {
    background: #fff;
-   font-family: 'Reenie Beanie', cursive;
+   font-family: 'Roboto Serif', serif;
    font-weight: normal;
-   font-size: 20px;
-   line-height: 13px;
+   font-size: 18px;
+   line-height: 20px;
 	color: #1d7942;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -186,7 +186,7 @@ body {
 /* h1,*/ 
 h2, h3, h4, h5, h6 { 
    color: #fff;
-	font-family: 'Roboto';
+	font-family: 'Poiret One', cursive;
    font-weight: normal;
 }
  a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
@@ -198,7 +198,8 @@ h5 { font-size: 28px; line-height: 16px; }
 h6 { font-size: 28px; line-height: 16px; }
 .subheader { }
 
-p { margin: 0 0 30px 0; }
+p { margin: 0 0 30px 0;
+   font-family: 'Roboto Mono', monospace; }
 p img { margin: 0; }
 p.lead {
    font: 18px/36px 'merriweather-light', sans-serif;

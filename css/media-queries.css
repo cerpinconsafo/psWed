@@ -5,7 +5,11 @@
 *   06-07-2014
 
 /* ================================================================== */
+/* font-family: 'Homemade Apple', cursive;
 
+font-family: 'Poiret One', cursive;
+
+font-family: 'Water Brush', cursive; */
 
 /* screenwidth less than 1140px
 --------------------------------------------------------------------- */
@@ -27,7 +31,8 @@
    ------------------------------------------------------------------ */
    #main { margin-top: 75px; }
   	#main h1 { 
-		font: 3em 'windsong', cursive;
+		
+		font: 3em 'Water Brush', cursive;
   		padding: 0 15%;
   	}
 	#main p { font: 24px/34px 'montserrat-regular', sans-serif; }
@@ -55,7 +60,7 @@
    /* main
    ------------------------------------------------------------------ */
    #main h1 { 
-	font: 3em 'windsong', cursive;
+	font: 3em 'Water Brush', cursive;
   		padding: 0 8%;
   	}
   	#main p { 
@@ -114,7 +119,7 @@
    ------------------------------------------------------------------ */
    #main { margin-top: 48px; }
   	#main h1 { 
-		font: 3em 'windsong', cursive;
+		font: 3em 'Water Brush', cursive;
   		text-align: center;  		
   	}
   	#main p {	
@@ -228,7 +233,7 @@
    /* main
    ------------------------------------------------------------------ */
    #main h1 { 
-	font: 2em 'windsong', cursive; 
+	font: 2em 'Water Brush', cursive; 
 		padding: 0 5px;
   	}
     
