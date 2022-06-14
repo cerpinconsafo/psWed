@@ -308,14 +308,20 @@ ul#nav li.current a { color: rgb(0, 73, 0); }
    display: flex;
    flex-wrap: wrap;
    justify-content: space-evenly;
-   padding: 15px;
+   padding: 40px;
 	height: 100%; 
    width: 100%;
+  
    background-color: #eed451;
 }
-
+#map .columns h3 {
+font-family: 'montserrat-regular', sans-serif;
+font-size: 18px;
+color: #443a5c; }
 #map .small-maps {
-   padding: 10px 5px;
+   margin-bottom: 25px;
+   margin-right: 3px;
+   border: solid 1px #998004;
 }
 
 
