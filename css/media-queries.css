@@ -131,6 +131,11 @@ font-family: 'Water Brush', cursive; */
 		font: 12px/24px 'montserrat-bold', sans-serif;
 		text-align: center;
 	}
+	#main .landing-links {
+		font-size: .75em;
+		text-align: left;	
+
+	}
 
   	/* counter */
 	#main #counter {
@@ -238,9 +243,9 @@ font-family: 'Water Brush', cursive; */
   	}
 
 	#main .landing-links {
-		font-size: 1.5em;
-		padding: 3px;
-		
+		font-size: .75em;
+		text-align: left;	
+
 	}
     
   	/* counter */
