@@ -233,9 +233,15 @@ font-family: 'Water Brush', cursive; */
    /* main
    ------------------------------------------------------------------ */
    #main h1 { 
-	font: 1em 'Homemade Apple', cursive; 
+	font: 2em 'Homemade Apple', cursive; 
 		padding: 0 5px;
   	}
+
+	#main .landing-links {
+		font-size: 1.5em;
+		padding: 3px;
+		
+	}
     
   	/* counter */
 	#main #counter {
