@@ -191,23 +191,31 @@ h2, h3, h4, h5, h6 {
 }
 
 .landing-links {
-   font-weight: bold;
-   filter: drop-shadow(.5rem .5rem 1rem rgb(23, 4, 31));
+   font-weight: bold !important;;
+   filter: drop-shadow( 1rem .5rem .5rem rgb(27, 3, 37));
    
 }
 
 .update {
-   color:rgb(158, 11, 11) !important;
+      color:rgb(158, 11, 11) !important;
+   filter: drop-shadow( .25rem 1rem 2rem rgb(212, 187, 45));
 }
 
+
+
  a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
-h1 { font-size: 30px; line-height: 36px; margin-bottom: 12px; letter-spacing: 0px; }
-h2 { font-size: 36px; line-height: 24px; margin-bottom: 6px; }
-h3 { font-size: 32px; line-height: 18px; margin-bottom: 6px; }
+h1 { font-size: 30px; line-height: 36px; letter-spacing: 0px; }
+h2 { font-size: 36px; line-height: 30px; margin-bottom: 6px; }
+h3 { font-size: 30px; line-height: 18px; margin-bottom: 6px; }
 h4 { font-size: 32px; line-height: 18px; margin-bottom: 6px; }
 h5 { font-size: 28px; line-height: 16px; }
-h6 { font-size: 28px; line-height: 16px; }
+h6 { font-size: 28px; line-height: 16px; margin-bottom: 4px}
 /* .subheader { } */
+
+h2 a {
+   padding-bottom: 100px !important;
+   text-decoration: underline;
+}
 
 p { margin: 0 0 30px 0;
    font-family: 'Roboto Mono', monospace; }
