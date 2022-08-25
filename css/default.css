@@ -212,7 +212,7 @@ h5 { font-size: 28px; line-height: 16px; }
 h6 { font-size: 28px; line-height: 16px; margin-bottom: 4px}
 /* .subheader { } */
 
-h2 a {
+h2 .update{
    padding-bottom: 100px !important;
    text-decoration: underline;
 }
