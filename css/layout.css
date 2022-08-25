@@ -289,8 +289,8 @@ ul#nav li.current a { color: rgb(0, 73, 0); }
 	text-align: center;
    display: flex;
    flex-wrap: wrap;
-   justify-content: space-evenly;
-   padding: 40px;
+   justify-content: center;
+   padding: 0px;
 	height: 100%; 
    width: 100%;
 }s
