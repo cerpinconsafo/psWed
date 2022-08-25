@@ -282,10 +282,17 @@ ul#nav li.current a { color: rgb(0, 73, 0); }
 	padding-top: 48px;
    padding-bottom: 18px;  
    color: #eed451; 
+ 
 }
 #location .contact-details {
 	max-width: 950px;	
 	text-align: center;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   padding: 40px;
+	height: 100%; 
+   width: 100%;
 }s
 #location .contacts .row .end { float: left; }
 #location .contacts h3 {
